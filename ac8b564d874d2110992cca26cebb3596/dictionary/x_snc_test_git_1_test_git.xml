@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="80e9074d87cd2110992cca26cebb35d2" label="test git" max_length="40" name="x_snc_test_git_1_test_git" type="collection">
+        <element label="tstcolumn1" max_length="255" name="u_tstcolumn1" type="string"/>
+    </element>
+</database>
